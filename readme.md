@@ -1,4 +1,5 @@
 # 統合データベース講習会：AJACS 琉球2
+※開催は中止となりました
 
 ### 公式ウェブページ
 [統合データベース講習会：AJACS 琉球2](https://biosciencedbc.jp/event/ajacs/ajacs81.html)  
